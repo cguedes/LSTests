@@ -1,7 +1,7 @@
 LI41D-G00 cguedes fbfreitas
 LI41D-G01 
 LI41D-G02 
-LI41D-G03 
+LI41D-G03 foo bar 
 LI41D-G04 
 LI41D-G05 
 LI41D-G06 bart lisa
